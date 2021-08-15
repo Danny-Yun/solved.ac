@@ -32,4 +32,5 @@ public class Test2562 {
 		System.out.println(max);   // 최댓값 출력
 		System.out.println(input.get(max));  // .get(key), 최댓값의 순번을 조회 후 출력
 	}
+	
 }
